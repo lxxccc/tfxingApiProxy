@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<button onclick="btnAction()">点我</button>
+
+<h1 id="textid"></h1>
+</body>
+
+<script>
+        function btnAction(){
+            console.log("12312312");
+            window.webkit.messageHandlers.app_getLocation.postMessage("就是一个消息啊");
+            // showAlert();
+        }
+
+        function showAlert(e) {
+           document.getElementById("textid").innerHTML = e;
+        }
+</script>
+</html>

@@ -1,0 +1,59 @@
+{
+  "common_param": "s",
+  "result": [{
+  "start_date": "2018-04-20",
+  "classes_id": "100",
+  "line_type": "1",
+  "product_type": "1",
+  "classes_type": "1",
+  "start_area_name": "ss ",
+  "arrive_area_name": "ss",
+  "price": "19990",
+  "sell_num_show": "5",
+  "is_stop_classes": "0",
+  "site_list": [{
+    "site_name": "sssss",
+    "site_type": "1",
+    "add_price": "50"
+
+  },
+    {
+      "site_name": "ssss",
+      "site_type": "2",
+      "add_price": "510"
+
+    }
+  ],
+  "send_time": "10:00"
+},
+  {
+    "start_date": "2018-04-20",
+    "classes_id": "101",
+    "line_type": "2",
+    "product_type": "3",
+    "classes_type": "2",
+    "start_area_name": "sssss",
+    "arrive_area_name": "sssss",
+    "price": "19990",
+    "sell_num_show": "5",
+    "is_stop_classes": "0",
+    "send_time": "10:00",
+    "site_list": [{
+      "site_name": "sssss",
+      "site_type": "1",
+      "add_price": "50"
+
+    },
+      {
+        "site_name": "sssa",
+        "site_type": "2",
+        "add_price": "510"
+
+      }
+    ]
+  }
+
+],
+"result_msg": "操作成功",
+"result_state": "0"
+}
