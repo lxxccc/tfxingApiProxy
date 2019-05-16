@@ -1,0 +1,33 @@
+{
+    "result_msg": "",
+    "result_state": "", 
+    "result":
+    [
+        {
+            "affirm_status":0,
+            "order_list":
+            [
+                {
+                    "order_id":"ORDER123872389472893479283",
+                    "site_longitude":"103.9890768771701",
+                    "site_latitude":"30.62950846354167",
+                    "site_address":"我也不知道12",
+                    "num":3, 
+                    "phone":"13990767284",
+                    "sort":1, 
+                    "head_img":"https://img.nga.178.com/avatars/2002/45b/0bf/002/34337883_0.jpg?13"
+                },
+                {
+                    "order_id":"ORDER123872389472893479283",
+                    "site_longitude":"103.9890768771701",
+                    "site_latitude":"30.72950846354167",
+                    "site_address":"我也不知道2",
+                    "num":2, 
+                    "phone":"13990767284",
+                    "sort":2, 
+                    "head_img":"https://img.nga.178.com/avatars/2002/45b/0bf/002/34337883_0.jpg?13"
+                }      
+            ]
+        }
+    ]
+}

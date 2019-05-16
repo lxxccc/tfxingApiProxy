@@ -4,8 +4,8 @@ import (
 	"log"
 	"path/filepath"
 
-	"lxxccc.lib/LxxcccToolkits_golang/config/toml"
-	"lxxccc.lib/LxxcccToolkits_golang/file"
+	"lxxccc.top/Library/ToolkitsGo/config/toml"
+	"lxxccc.top/Library/ToolkitsGo/file"
 )
 
 type ConfigInfo struct {
@@ -15,6 +15,7 @@ type ConfigInfo struct {
 var Config = ConfigInfo{}
 
 func init() {
+
 	filePath := filepath.Join(file.GetRootPath(), "conf", "config.toml")
 	err := toml.ReadTomlConfig(filePath, &Config)
 	if nil != err {

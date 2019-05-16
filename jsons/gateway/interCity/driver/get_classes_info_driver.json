@@ -1,0 +1,99 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 1,
+                    "long_lati_tude": "108.28021,30.86799;108.502683,30.849128;108.480711,30.691012;108.274717,30.707544",
+                    "scope_id": 24,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "106.569918,29.562864;106.589659,29.568388;106.589659,29.554801;106.573695,29.545692;106.563395,29.548529",
+                    "scope_id": 26,
+                    "sort": 1
+                }
+            ],
+            "baby_sell_num": 0,
+            "branch_company_id": 10,
+            "can_not_sell_baby": "每辆车免费携童（1.2米以下）数只有车辆核定载客数的10%。本车携童数已满！请选择购买儿童票或者选择其他班次。",
+            "children_price": "100.00",
+            "children_price_scale": 0.5,
+            "classes_id": 57515,
+            "classes_type": 2,
+            "is_auth_autonym": 0,
+            "is_sell_baby_ticket": 0,
+            "is_sell_children_ticket": 1,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_id": 42,
+            "line_type": 1,
+            "only_sell_children": "指1.5米以下的所有儿童，包括幼儿和婴儿！",
+            "order_sell_seat": 4,
+            "original_price": 1000,
+            "price": "200.00",
+            "product_id": 295,
+            "product_type": 2,
+            "rolling_max_passenger_num": 4,
+            "sell_num": 5,
+            "sell_seat": 999,
+            "send_date": "2019-03-05",
+            "send_end_time": "20:15",
+            "send_start_time": "09:15",
+            "site_list": [
+                {
+                    "site_id":"123",  
+                    "site_name":"33333",   
+                    "site_longitude":"",   
+                    "site_latitude":"",   
+                    "site_address":"阿斯顿发",   
+                    "site_type":"1",  
+                    "send_time":"2323",   
+                    "add_price":"3" 
+                },
+                {
+                    "site_id":"123",  
+                    "site_name":"33333",   
+                    "site_longitude":"",   
+                    "site_latitude":"",   
+                    "site_address":"阿斯顿发",   
+                    "site_type":"1",  
+                    "send_time":"2323",   
+                    "add_price":"3" 
+                },
+                {
+                    "site_id":"123",  
+                    "site_name":"33333",   
+                    "site_longitude":"",   
+                    "site_latitude":"",     
+                    "site_address":"阿斯顿发",   
+                    "site_type":"2",  
+                    "send_time":"2323",   
+                    "add_price":"3" 
+                },
+                {
+                    "site_id":"123",  
+                    "site_name":"33333",   
+                    "site_longitude":"",   
+                    "site_latitude":"",     
+                    "site_address":"阿斯顿发",   
+                    "site_type":"2",  
+                    "send_time":"2323",   
+                    "add_price":"3" 
+                }
+            ],
+            "start_area_name": "万州区",
+            "start_area_type": 2,
+            "end_area_type": 1,
+            "arrive_area_name": "渝中区",
+            "subscribe_advance_time": 30,
+            "total_num": 6
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

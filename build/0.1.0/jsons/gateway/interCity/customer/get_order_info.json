@@ -1,0 +1,100 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "actual_amount": "410.00",
+            "adult_num": 1,
+            "adult_price": "20.00",
+            "amount": "40.00",
+            "original_price":"310.99",
+            "arrive_area_id": 2389,
+            "arrive_area_name": "崇州市",
+            "baby_num": 0,
+            "check_code": "091251",
+            "check_status": 1,
+            "children_num": 1,
+            "children_price": "20.00",
+            "classes_type": 2,
+            "contacts": "袁婷",
+            "contacts_phone": "13684142091",
+            "coupon_deduction_amount": "30.00",
+            "create_time": "2019-02-27 09:51:40",
+            "end_area_type": 1,
+            "get_down_address": "崇州客运中心客运中心客运中心客运中心客运中心客运中心客运中心",
+            "get_on_address": "茶店子旅游集散中心",
+            "get_on_latitude": "30.705123",
+            "get_on_longitude": "104.014017",
+            "is_auth_autonym": 1,
+            "is_cancel_btn_show": 0,
+            "is_comment": 0,
+            "is_over_time": 0,
+            "is_refund_btn_show": 1,
+            "is_refund_cause_show": 1,
+            "is_sell_baby_ticket": 0,
+            "is_sell_children_ticket": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "order_sn": "TCDB20190227095139001903",
+            "passenger_list": [
+                {
+                    "is_carry_baby": 0,
+                    "name": "13684142091",
+                    "type": 1,
+                    "id_card": "12318923791827391872398123"
+                },
+                {
+                    "is_carry_baby": 0,
+                    "name": "13684142091",
+                    "type": 0,
+                    "id_card": "12318923791827391872398123"
+                }
+            ],
+            "pay_over_time": "2019-02-27 09:56:40",
+            "product_type": 2,
+            "refund_protocol": "http://192.168.30.195:8080/api/apis.html",
+            "service_amount":"30.22",
+            "refund_time":"2019-02-27 12:33",
+            "refund_amount":"103.23",
+            "refund_cause":"//退款原因(非必填)", 
+            "refund_explain":"退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)退款说明(非必填)",
+            "send_date": "2019-02-27",
+            "send_end_time": "21:00",
+            "send_start_time": "07:00",
+            "start_area_id": 2370,
+            "start_area_name": "成都市成",
+            "start_area_type": 1,
+            "status": 2,
+            "status_show": "待支付",
+            "pay_type_show":"随便支付",
+            "booking_go_time_begin":"13:33",
+            "booking_go_time_end":"19:00",
+            "order_num":123,
+            "is_close":0,   
+            "site_images":
+            [
+                {
+                    "image_url":"https://www.baidu.com/img/bd_logo1.png",    
+                    "type":1
+                },
+                {
+                    "image_url":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=97499209,605309070&fm=26&gp=0.jpg",    
+                    "type":1
+                },
+                {
+                    "image_url":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3396855703,1264406816&fm=26&gp=0.jpg",    
+                    "type":1
+                },
+                {
+                    "image_url":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2087851351,2384903715&fm=26&gp=0.jpg",    
+                    "type":1
+                },
+                {
+                    "image_url":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2421758166,1345407806&fm=26&gp=0.jpg",    
+                    "type":1
+                }
+            ]
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

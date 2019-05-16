@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/tfxingApiProxy/controllers"
+	"github.com/lxxccc/tfxingApiProxy/controllers"
 )
 
 func init() {

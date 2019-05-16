@@ -1,0 +1,71 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "system_key": "snatch_order_wait_time",
+            "value": "10"
+        },
+        {
+            "system_key": "customer_service_phone",
+            "value": "400-028-5151"
+        },
+        {
+            "system_key": "is_view_woman_driver",
+            "value": "0"
+        },
+        {
+            "system_key": "client_gather_track_time_interval",
+            "value": "3"
+        },
+        {
+            "system_key": "client_upload_track_time_interval",
+            "value": "5"
+        },
+        {
+            "system_key": "weixin_privatekey",
+            "value": "581c113070ffbc5d667c22eda3f15cf8"
+        },
+        {
+            "system_key": "weixin_appid",
+            "value": "wx6d8ddf73bf95fb73"
+        },
+        {
+            "system_key": "get_lost_goods_tips",
+            "value": "我有遗失物品，需要官方帮助"
+        },
+        {
+            "system_key": "extract_money_tips",
+            "value": "您的提现申请已提交，我们将在2个小时内处理，请耐心等待。"
+        },
+        {
+            "system_key": "driver_extract_tips",
+            "value": "请你使用本人银行卡进行提现，推荐使用浦发银行，若非浦发银行，您需要支付1元的手续费"
+        },
+        {
+            "system_key": "close_snatch_order_frame_time",
+            "value": "40"
+        },
+        {
+            "system_key": "customer_callorder_wait_time",
+            "value": "120"
+        },
+        {
+            "system_key": "traveling_index_page",
+            "value": "https://wechat.mmyueche.com/tfx-wechat/tfxlyapp/index.html"
+        },
+        {
+            "system_key": "traveling_order_list_page",
+            "value": "https://wechat.mmyueche.com/tfx-wechat/tfxlyapp/user/order/orderlist.html"
+        },
+        {
+            "system_key": "lease_index_page",
+            "value": "https://wechat.mmyueche.com/tfx-wechat/tfxzlapp/index.html"
+        },
+        {
+            "system_key": "lease_order_list_page",
+            "value": "https://wechat.mmyueche.com/tfx-wechat/tfxzlapp/home/user/userallorder.html"
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

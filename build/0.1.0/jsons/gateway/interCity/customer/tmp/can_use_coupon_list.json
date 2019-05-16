@@ -1,0 +1,71 @@
+{
+    "result_msg": "",
+    "result_state": "", 
+    "result":
+    [
+        {
+            "coupon_id":"123123123",  
+            "coupon_name":"//名称(必填)",   
+            "coupon_type":"1",   
+            "business_type":"1",   
+            "amount":"1.00",   
+            "astrict":"1.99",   
+            "discount":"1.2",  
+            "discount_amount":"1.2",   
+            "status":"0",  
+            "status_show":"未使用",   
+            "start_time":"2013-20-33",   
+            "end_time":"1033-03-22",   
+            "restrictions":"限制描述(必填) 多个逗号隔开",  
+            "application_scope":"适用范围(必填) 多个逗号隔开"  
+        },
+        {
+            "coupon_id":"12312313",  
+            "coupon_name":"//名称(必填)",   
+            "coupon_type":"1",   
+            "business_type":"1",   
+            "amount":"1.00",   
+            "astrict":"1.99",   
+            "discount":"1.2",  
+            "discount_amount":"1.2",   
+            "status":"0",  
+            "status_show":"未使用",   
+            "start_time":"2013-20-33",   
+            "end_time":"1033-03-22",   
+            "restrictions":"限制描述(必填) 多个逗号隔开",  
+            "application_scope":"适用范围(必填) 多个逗号隔开"  
+        },
+        {
+            "coupon_id":"333",  
+            "coupon_name":"//名称(必填)",   
+            "coupon_type":"1",   
+            "business_type":"1",   
+            "amount":"1.00",   
+            "astrict":"1.99",   
+            "discount":"1.2",  
+            "discount_amount":"1.2",   
+            "status":"1",  
+            "status_show":"未使用",   
+            "start_time":"2013-20-33",   
+            "end_time":"1033-03-22",   
+            "restrictions":"限制描述(必填) 多个逗号隔开",  
+            "application_scope":"适用范围(必填) 多个逗号隔开"  
+        },
+        {
+            "coupon_id":"333",  
+            "coupon_name":"//名称(必填)",   
+            "coupon_type":"1",   
+            "business_type":"1",   
+            "amount":"1.00",   
+            "astrict":"1.99",   
+            "discount":"1.2",  
+            "discount_amount":"1.2",   
+            "status":"-1",  
+            "status_show":"未使用",   
+            "start_time":"2013-20-33",   
+            "end_time":"1033-03-22",   
+            "restrictions":"限制描述(必填) 多个逗号隔开",  
+            "application_scope":"适用范围(必填) 多个逗号隔开"  
+        }
+    ]
+}

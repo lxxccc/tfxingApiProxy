@@ -1,0 +1,46 @@
+{
+    "result_msg": "",
+    "result_state": "",
+    "result": [
+        {
+            "classes_type": 2,
+            "start_area_name": "崇州",
+            "arrive_area_name": "成都",
+            "send_time": "",
+            "classes_sort": "滚动5班",
+            "category":1,
+            "total_ticket_num":3,
+            "baby_num":1
+        },
+        {
+            "classes_type": 2,
+            "start_area_name": "崇州",
+            "arrive_area_name": "成都",
+            "send_time": "",
+            "classes_sort": "滚动6班",
+            "category":2,
+            "total_ticket_num":6,
+            "baby_num":0
+        },
+        {
+            "classes_type": 2,
+            "start_area_name": "崇州",
+            "arrive_area_name": "马尔康市",
+            "send_time": "",
+            "classes_sort": "滚动7班",
+            "category":2,
+            "total_ticket_num":6,
+            "baby_num":0
+        },
+        {
+            "classes_type": 1,
+            "start_area_name": "崇州",
+            "arrive_area_name": "马尔康市",
+            "send_time": "17:00",
+            "classes_sort": "滚动7班",
+            "category":1,
+            "total_ticket_num":6,
+            "baby_num":1
+        }
+    ]
+}

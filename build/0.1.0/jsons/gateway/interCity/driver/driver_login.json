@@ -1,0 +1,24 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "amap_key": "18b34ce8d32657cdcf3c359143f8791f",
+            "head_img": "https:/lyapi.mmyueche.com/resource/tfxingcj/driver/image/33_181107094442020.jpg",
+            "id": 44,
+            "id_card": "15382901411",
+            "is_bind_phone": 1,
+            "is_sign_agreement": 1,
+            "name": "15382901411",
+            "password": "111111",
+            "phone": "18711112222",
+            "pms_alias_type": "driver",
+            "pms_app_key": "584f9867b27b0a635d001bd3",
+            "pms_master_secret": "el9eduwb0zli8dvkruzohx6r8zozb2cz",
+            "pms_tag": "A500100",
+            "score": 0,
+            "sn": "SW00000020"
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

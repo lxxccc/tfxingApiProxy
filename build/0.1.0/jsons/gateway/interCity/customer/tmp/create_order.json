@@ -1,0 +1,12 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "order_id": 3116,
+            "order_sn": "TCDB20190227095139001903",
+            "pay_over_time": "2019-02-28 09:56:40"
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

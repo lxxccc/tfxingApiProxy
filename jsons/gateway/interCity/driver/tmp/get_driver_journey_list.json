@@ -1,0 +1,48 @@
+{
+    "result_msg": "",
+    "result_state": "",
+    "result": [
+        {
+            "classes_id": "123",
+            "line_type": 1,
+            "product_type": 1,
+            "start_area_type": 1,
+            "end_area_type": 1,
+            "classes_type": 1,
+            "vehicle_id": "3333",
+            "plate_num": "川A12345",
+            "start_area_name": "出出出",
+            "arrive_area_name": "倒倒倒",
+            "send_date": "2019-09-09",
+            "send_time": "14:02",
+            "classes_sort": "滚动2班",
+            "income_amount": "123.00",
+            "unpay_num": 2,
+            "check_ticket_num": 2,
+            "category": 1,
+            "classes_status_show": "已完成",
+            "real_send_datetime": "13:00"
+        },
+        {
+            "classes_id": "123",
+            "line_type": 1,
+            "product_type": 1,
+            "start_area_type": 1,
+            "end_area_type": 1,
+            "classes_type": 1,
+            "vehicle_id": "3333",
+            "plate_num": "川A12345",
+            "start_area_name": "出出出",
+            "arrive_area_name": "倒倒倒",
+            "send_date": "2018-12-05",
+            "send_time": "14:02",
+            "classes_sort": "滚动2班",
+            "income_amount": "123.00",
+            "unpay_num": 3,
+            "check_ticket_num": 1,
+            "category": 2,
+            "classes_status_show": "已完成",
+            "real_send_datetime": "15:00"
+        }
+    ]
+}

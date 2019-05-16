@@ -1,0 +1,17 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "area_name": "眉山市（福基）",
+            "brand_name": "奥迪A3",
+            "fuel_type": "汽油",
+            "line_type": 1,
+            "passenger_seats": 7,
+            "plate_num": "川A12345",
+            "vehicle_color": "粉色",
+            "car_seniority":1
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

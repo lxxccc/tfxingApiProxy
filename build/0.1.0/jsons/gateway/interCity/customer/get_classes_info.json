@@ -1,0 +1,147 @@
+{
+    "common_param": {},
+    "result": [
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "0.00",
+                    "flag": 1,
+                    "long_lati_tude": "103.988842,30.646223;104.027809,30.645484;104.033646,30.626874;104.032616,30.612988;104.010986,30.607669;103.975281,30.613578;103.975796,30.635145",
+                    "scope_id": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "1.00",
+                    "flag": 1,
+                    "long_lati_tude": "103.969959,30.64829;104.037765,30.647995;104.045662,30.620226;104.041027,30.606635;104.006866,30.602054;103.968758,30.604714",
+                    "scope_id": 2,
+                    "sort": 2
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.753738,31.486273;104.80146,31.478954;104.789787,31.457284;104.773308,31.43561;104.738632,31.440883;104.742409,31.470462",
+                    "scope_id": 3,
+                    "sort": 1
+                },
+                {
+                    "add_price": "2.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.720779,31.484517;104.712025,31.470902;104.70739,31.454209;104.737945,31.448498;104.765411,31.452598;104.787384,31.484078",
+                    "scope_id": 9,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "绵阳市",
+            "baby_sell_num": 2,
+            "booking_time_span": [
+                {
+                    "booking_time_begin": "17:19",
+                    "booking_time_end": "17:30"
+                },
+                {
+                    "booking_time_begin": "17:30",
+                    "booking_time_end": "18:00"
+                },
+                {
+                    "booking_time_begin": "18:00",
+                    "booking_time_end": "18:30"
+                },
+                {
+                    "booking_time_begin": "18:30",
+                    "booking_time_end": "19:00"
+                },
+                {
+                    "booking_time_begin": "19:00",
+                    "booking_time_end": "19:30"
+                },
+                {
+                    "booking_time_begin": "19:30",
+                    "booking_time_end": "20:00"
+                },
+                {
+                    "booking_time_begin": "20:00",
+                    "booking_time_end": "20:25"
+                }
+            ],
+            "branch_company_id": 5,
+            "can_sell_baby": "携童是指1.2米以下的儿童。每辆车免费携童数只有车辆核定载客数的10%。",
+            "children_price": "60.00",
+            "children_price_scale": 0.6,
+            "classes_id": 58058,
+            "classes_type": 2,
+            "end_area_type": 2,
+            "is_auth_autonym": 1,
+            "is_sell_baby_ticket": 1,
+            "is_sell_children_ticket": 1,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_id": 2,
+            "line_type": 2,
+            "order_sell_seat": 6,
+            "original_price": "10.00",
+            "passenger_notice_url": "https://lyapi.mmyueche.com/resource//tfxingcj/content/htmlfiles/f0fe1f4d-44ce-44f8-857f-7aa1c2611112.html?1553579449024",
+            "price": "100.00",
+            "product_id": 285,
+            "product_type": 3,
+            "rolling_max_passenger_num": 6,
+            "sell_num": 20,
+            "sell_seat": 20,
+            "send_date": "2019-04-29",
+            "send_end_time": "20:25",
+            "send_start_time": "09:25",
+            "site_list": [],
+            "start_area_name": "武侯区",
+            "start_area_type": 2,
+            "subscribe_advance_time": 100,
+            "total_num": 20,
+            "preferred_address":
+            [
+                {
+                    "name":"啥鸡儿名字哦1",
+                    "address":"啥鸡儿名字哦啥鸡儿名字哦啥鸡儿名字哦1",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":1 
+                },
+                {
+                    "name":"啥鸡儿名字哦2",
+                    "address":"啥鸡儿名字哦啥鸡儿名字哦啥鸡儿名字哦2",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":1 
+                },
+                {
+                    "name":"啥鸡儿名字哦3",
+                    "address":"啥鸡儿名字哦啥鸡儿名字哦啥鸡儿名字哦3",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":1 
+                },
+                {
+                    "name":"锤子名字1",
+                    "address":"锤子名字锤子名字锤子名字锤子名字锤子名字",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":2
+                },
+                {
+                    "name":"锤子名字2",
+                    "address":"锤子名字锤子名字锤子名字锤子名字",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":2
+                },
+                {
+                    "name":"锤子名字3",
+                    "address":"锤子名字锤子名字锤子名字锤子名字锤子名字222",   
+                    "longitude":"123",
+                    "latitude":"222",    
+                    "type":2
+                }
+            ]
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

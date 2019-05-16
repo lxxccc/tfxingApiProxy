@@ -1,0 +1,614 @@
+{
+    "common_param": {
+        "page_index": "1",
+        "page_size": "20",
+        "total_number": "8"
+    },
+    "result": [
+        {
+            "area_scope_list": [],
+            "arrive_area_name": "成都市",
+            "classes_id": 44723,
+            "classes_type": 2,
+            "end_area_type": 1,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "original_price":"123.00元",
+            "line_type": 2,
+            "price": "20.00",
+            "price_show": "20.00元起",
+            "sell_num_show": "余位充足",
+            "send_end_time": "20:00",
+            "send_start_time": "06:00",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":100,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":300,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":600,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":100,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":300,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":600,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":100,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":300,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":600,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市青羊区金沙街道成都金沙医院",
+                    "site_id": 22,
+                    "site_latitude": "30.673247",
+                    "site_longitude": "104.00951",
+                    "site_name": "成都妇女儿童医院",
+                    "site_type": 2,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":100,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":300,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":600,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市青羊区苏坡街道中坝(地铁站)",
+                    "site_id": 23,
+                    "site_latitude": "30.673492",
+                    "site_longitude": "103.96411",
+                    "site_name": "中坝站",
+                    "site_type": 2,
+                    "sort": 2
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":100,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":300,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":600,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市金牛区西华街道西三环路五段289号茶店子客运站",
+                    "site_id": 21,
+                    "site_latitude": "30.705123",
+                    "site_longitude": "104.014017",
+                    "site_name": "茶店子旅游集散中心",
+                    "site_type": 2,
+                    "sort": 3
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "俄文法文9uewyy"
+                },
+                {
+                    "tag_name": "(yd北侧我原以为)"
+                },
+                {
+                    "tag_name": "二点范文芳违法非额"
+                },
+                {
+                    "tag_name": "分为四点五十3333"
+                },
+                {
+                    "tag_name": "问问给发热册封风水师"
+                },
+                {
+                    "tag_name": "对我说分拆为凤尾33"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "103.986771,30.640559;103.977844,30.622834;104.0084,30.615152;104.021103,30.631402;104.003937,30.653851;104.001534,30.653555",
+                    "scope_id": 37,
+                    "sort": 1
+                },
+                {
+                    "add_price": "2.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 56873,
+            "classes_type": 2,
+            "end_area_type": 2,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "price": "31.20",
+            "price_show": "31.20元起",
+            "sell_num_show": "余位5",
+            "send_end_time": "18:40",
+            "send_start_time": "08:40",
+            "site_list": [
+                {
+                    "add_price": "1.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":156,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.3,\"adultAmount\":936,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.5,\"adultAmount\":1560,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "2.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":156,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.3,\"adultAmount\":936,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.5,\"adultAmount\":1560,\"childrenAmount\":0}]",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": []
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45677,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "14:40",
+            "sell_num_show": "余位6",
+            "send_time": "14:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "14:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "14:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45678,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "16:40",
+            "sell_num_show": "余位6",
+            "send_time": "16:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "16:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "16:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45679,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "19:40",
+            "sell_num_show": "余位6",
+            "send_time": "19:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "19:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "19:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45680,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 0,
+            "is_stop_classes": 0,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "21:40",
+            "sell_num_show": "余位6",
+            "send_time": "21:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "21:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "21:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45675,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 1,
+            "is_stop_classes": 1,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "08:40",
+            "sell_num_show": "已售罄",
+            "send_time": "08:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "08:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "08:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        },
+        {
+            "area_scope_list": [
+                {
+                    "add_price": "1.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.020073,30.636276;104.032948,30.641002;104.047024,30.633765;104.051315,30.6283;104.032089,30.621505;104.0187,30.626527;104.018013,30.628595",
+                    "scope_id": 17,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "flag": 2,
+                    "long_lati_tude": "104.017713,30.634872;104.030244,30.629481;104.029386,30.62431;104.022863,30.618771;104.016769,30.616333;104.007327,30.623498;104.004152,30.631327;104.005954,30.63273",
+                    "scope_id": 18,
+                    "sort": 2
+                }
+            ],
+            "arrive_area_name": "成都市",
+            "classes_id": 45676,
+            "classes_type": 1,
+            "end_area_type": 2,
+            "is_sell_out": 1,
+            "is_stop_classes": 1,
+            "line_type": 2,
+            "price": "41.80",
+            "price_show": "41.80元起",
+            "real_send_time": "12:40",
+            "sell_num_show": "已售罄",
+            "send_time": "12:40",
+            "site_list": [
+                {
+                    "add_price": "0.00",
+                    "add_time": 0,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "12:40",
+                    "site_address": "四川省成都市崇州市崇阳街道西湖苑交通商场(崇州市崇阳白蚁防治所西)",
+                    "site_id": 24,
+                    "site_latitude": "30.629971",
+                    "site_longitude": "103.670003",
+                    "site_name": "崇州西门车站",
+                    "site_type": 1,
+                    "sort": 1
+                },
+                {
+                    "add_price": "0.00",
+                    "add_time": 10,
+                    "refund_rule": "[{\"startTime\":180,\"endTime\":0,\"priceRate\":0.0,\"adultAmount\":0,\"childrenAmount\":0},{\"startTime\":120,\"endTime\":180,\"priceRate\":0.05,\"adultAmount\":209,\"childrenAmount\":0},{\"startTime\":60,\"endTime\":120,\"priceRate\":0.15,\"adultAmount\":627,\"childrenAmount\":0},{\"startTime\":0,\"endTime\":60,\"priceRate\":0.3,\"adultAmount\":1254,\"childrenAmount\":0}]",
+                    "send_time": "12:50",
+                    "site_address": "四川省成都市崇州市崇阳街道崇州客运中心",
+                    "site_id": 26,
+                    "site_latitude": "30.644207",
+                    "site_longitude": "103.680732",
+                    "site_name": "崇州客运中心",
+                    "site_type": 1,
+                    "sort": 2
+                }
+            ],
+            "start_area_name": "崇州市",
+            "start_area_type": 1,
+            "tags": [
+                {
+                    "tag_name": "tyt天气真好出门出"
+                },
+                {
+                    "tag_name": "答案下棋-揭晓比比"
+                },
+                {
+                    "tag_name": "huwehdw月呵呵"
+                },
+                {
+                    "tag_name": "违法的服务的愤愤愤愤"
+                }
+            ]
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

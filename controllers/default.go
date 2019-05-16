@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/astaxie/beego"
-	"github.com/tfxingApiProxy/models"
+	"github.com/lxxccc/tfxingApiProxy/models"
 	)
 
 type Request struct {

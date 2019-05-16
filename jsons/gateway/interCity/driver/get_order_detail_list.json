@@ -1,0 +1,57 @@
+{
+    "common_param": {
+        "page_index": "1",
+        "page_size": "10",
+        "total_number": "1"
+    },
+    "result": [
+        {
+            "check_ticket_num": 0,
+            "is_replace_customer": 0,
+            "is_stop_classes": 0,
+            "order_list": [
+                {
+                    "adult_num": 1,
+                    "amount": "201.00",
+                    "arrive_area_name": "渝中区",
+                    "baby_num": 0,
+                    "booking_go_endttime": "18:30",
+                    "booking_go_starttime": "18:00",
+                    "check_code": "002570",
+                    "check_status": 1,
+                    "children_num": 0,
+                    "get_down_address": "重庆市渝中区解放碑街道民权路8号重庆时代广场",
+                    "get_down_latitude": "29.55765120265427",
+                    "get_down_longitude": "106.5765266418457",
+                    "get_on_address": "重庆市万州区牌楼街道沙龙路二段国成·江山龙苑/18:00~18:30",
+                    "get_on_latitude": "30.7847785639088",
+                    "get_on_longitude": "108.3887023925781",
+                    "is_view_navigation": 1,
+                    "order_id": 3267,
+                    "passenger_list": [
+                        {
+                            "id": 5541,
+                            "is_carry_baby": 0,
+                            "name": "15282820002",
+                            "phone": "15282820002",
+                            "price": "201.00",
+                            "type": 1
+                        }
+                    ],
+                    "product_type": 3,
+                    "refund_status": 1,
+                    "send_time": "09:15-20:15",
+                    "source": 3,
+                    "start_area_name": "万州区",
+                    "view_cancel": 0,
+                    "view_pay": 0
+                }
+            ],
+            "sell_num": 5,
+            "uncheck_ticket_num": 1,
+            "affirm_status":1
+        }
+    ],
+    "result_msg": "操作成功",
+    "result_state": "0"
+}

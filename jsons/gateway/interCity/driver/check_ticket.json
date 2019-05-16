@@ -1,0 +1,22 @@
+{
+    "result_msg": "操作成功",
+    "result_state": "0",
+    "result":
+    [
+        {
+            "classes_type":2,
+            "start_area_name":"出出出", 
+            "arrive_area_name":"到到到", 
+            "send_time":"13:30",
+            "adult_num":3,   
+            "children_num":0,    
+            "baby_num":0,   
+            "pay_amount":"123.00",
+            "check_ticket_num":2,
+            "sell_num":3,
+            "is_sell_children_ticket":1,
+            "is_sell_baby_ticket":0,
+            "get_down_address":"阿里卡解放拉屎的卷发；了快速的减肥啦快结束"
+        }
+    ]
+}

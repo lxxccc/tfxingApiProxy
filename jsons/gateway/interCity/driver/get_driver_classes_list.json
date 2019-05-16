@@ -1,0 +1,57 @@
+{
+    "result_msg": "",
+    "result_state": "",
+    "result": [
+        {
+            "classes_id": "1",
+            "real_send_datetime":"2019-05-10 10:25:00",
+            "line_type": 1,
+            "product_type": 1,
+            "start_area_type": 1,
+            "end_area_type": 1,
+            "classes_type": 1,
+            "start_area_name": "出发点",
+            "arrive_area_name": "到达点",
+            "send_time": "12:03",
+            "classes_sort": "滚动1班",
+            "income_amount": "123.00",
+            "uncheck_ticket_num": "1",
+            "check_ticket_num": "3",
+            "sell_num": "2",
+            "is_affirm_btn_show": 0,
+            "is_start_btn_show": 1,
+            "affirm_status": 1,
+            "status": 1,
+            "vehicle_id": "2",
+            "plate_num": "川A12333",
+            "tags": 
+            [
+                {
+                    "tag_name":"傻逼吧"
+                }
+            ]
+        },
+        {
+            "classes_id": "1",
+            "line_type": 1,
+            "product_type": 1,
+            "start_area_type": 1,
+            "end_area_type": 1,
+            "classes_type": 1,
+            "start_area_name": "出发点",
+            "arrive_area_name": "到达点",
+            "send_time": "12:03",
+            "classes_sort": "滚动1班",
+            "income_amount": "123.00",
+            "uncheck_ticket_num": "1",
+            "check_ticket_num": "3",
+            "sell_num": "2",
+            "is_affirm_btn_show": 1,
+            "is_start_btn_show": 1,
+            "affirm_status": 1,
+            "status": 2,
+            "vehicle_id": "2",
+            "plate_num": "川A12333"
+        }
+    ]
+}
